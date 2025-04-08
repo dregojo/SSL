@@ -8,3 +8,4 @@
 int main(){
     printf("Hello, World!\n");
 }
+/* en una terminal accediendo a la carpeta donde se aloja el archivo fuente pongo ".\hello > output.txt" */
